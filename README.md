@@ -1,4 +1,4 @@
-# tableau-mini-project
+# Tableau Mini Project
 
 Project members:
 Avary
